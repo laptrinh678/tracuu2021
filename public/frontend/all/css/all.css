@@ -1,0 +1,23 @@
+/* owl carosel */
+.owl-theme .owl-nav {
+    margin-top: 10px;
+    display: none;
+}
+.owl-theme .owl-dots, .owl-theme .owl-nav {
+    display: none;
+}
+.slider_caroseltop .item>img{height: 450px !important;}
+/*header*/
+header{ background: url('../img/bgh.jpg'); background-repeat: repeat-y; background-size: 100%; min-height: 50px;}
+header>img{ width:100%; }
+
+.feature-main .container{ background: white; padding-bottom: 20px;
+    border-radius: 3px; }
+.title{ padding: 0px; font-weight: normal; }
+.border{ border: 1px solid #cac5c5; }
+.border>th{ border: 1px solid #cac5c5; }
+.border>td{ border: 1px solid #cac5c5; }
+.doimkform{ background: whitesmoke;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 15px; }
